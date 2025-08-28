@@ -24,9 +24,10 @@ int main()
     {
          printf("your grade is c");
     }
-    else if (grade>35);
+    else 
     {
         printf("your grade is D");
     }
     return 0;
+
 }
